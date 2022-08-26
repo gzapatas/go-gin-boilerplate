@@ -1,4 +1,4 @@
-# gin-go-boilerplate
+# go-gin-boilerplate
 
 Project tree is:
 
